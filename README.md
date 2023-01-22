@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-A sample command-line application with an entrypoint in `bin/`, library code
-in `lib/`, and example unit test in `test/`.
-=======
 # Calculadora-IMC-Dart
 Calculadora que informa o IMC com base nos dados do usuário.
 
